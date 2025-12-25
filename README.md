@@ -8,10 +8,7 @@ One-line installer for the RH124 lab grading system with xAPI integration and cu
 curl -sSL https://raw.githubusercontent.com/frazier-at-cpcc/RH124-autograde/master/install.sh | bash
 ```
 
-Then reload your shell:
-```bash
-source ~/.bashrc
-```
+The alias is activated automatically after installation.
 
 ## What It Does
 
